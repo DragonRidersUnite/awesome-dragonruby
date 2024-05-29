@@ -61,6 +61,8 @@ _All samples in this section must link to freely available source code with an [
 * [Scale](https://github.com/DragonRidersUnite/scale) - Lightweight starter template with common helpers
 * [Smaug](https://smaug.dev/) - Installation and package manager for DragonRuby
 * [Zif](https://github.com/danhealy/dragonruby-zif) - A Drop-in Framework for DragonRuby Game Toolkit
+* [Dragonborn](https://github.com/pvande/dragonborn) - Automatically require your game's code (a la Rails / Zeitwerk)
+* [Foodchain](https://github.com/pvande/foodchain) - Manage and document your game's dependencies
 
 ## Documents & Tutorials & Presentations & Videos
 
